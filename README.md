@@ -27,7 +27,7 @@ In the associated study, 172 compounds were profiled in HepG2 cells with six
 biological replicates per compound, generating 1,232 proteomes and quantifying
 8,703 proteins.
 
-REPOSITORY STRUCTURE
+## REPOSITORY STRUCTURE
 
 AI results/             AI-generated analysis outputs
 ClinicalValidation/     EHR validation analyses
@@ -37,7 +37,7 @@ data/                   Example and processed data
 manual check/           Human-verified outputs
 website/                Streamlit portal
 
-MAIN ANALYSIS COMPONENTS
+## MAIN ANALYSIS COMPONENTS
 
 1. Proteomics data processing and quality control
 - Protein filtering
@@ -80,7 +80,7 @@ Includes EHR-based validation workflows.
 7. Interactive website
 https://drug-ai-robotics-proteomics.streamlit.app/
 
-DATA AVAILABILITY
+## DATA AVAILABILITY
 
 MassIVE accession:
 MSV000101671
@@ -88,7 +88,10 @@ MSV000101671
 FTP:
 ftp://massive-ftp.ucsd.edu/v12/MSV000101671/
 
-SOFTWARE REQUIREMENTS
+Interactive website:
+https://drug-ai-robotics-proteomics.streamlit.app/
+
+## SOFTWARE REQUIREMENTS
 
 Python 3.13.9
 
@@ -108,12 +111,12 @@ BASIC USAGE
 
 git clone https://github.com/xomicsdatascience/AI-robotics-proteomics.git
 
-NOTES ON AI-GENERATED CODE
+## NOTES ON AI-GENERATED CODE
 
 Some code and outputs were generated or assisted by AI systems.
 All major analytical logic and outputs were manually reviewed.
 
-CITATION
+## CITATION
 
 Jiang Y, Movassaghi CS, Muñoz-Estrada J, Sundararaman N,
 Momenzadeh A, Meyer JG.
@@ -124,7 +127,7 @@ bioRxiv 2026.
 
 DOI: 10.64898/2026.05.04.722718
 
-CONTACT
+## CONTACT
 
 Yuming Jiang
 yuming.jiang@csmc.edu
