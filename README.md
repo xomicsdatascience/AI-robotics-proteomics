@@ -17,7 +17,7 @@ manual-check results, clinical validation analysis, figure-generation code,
 and web-portal code associated with a large-scale HepG2 drug perturbation
 proteomics study.
 
-STUDY OVERVIEW
+## STUDY OVERVIEW
 
 This project develops an end-to-end platform that combines semi-automated sample
 preparation, rapid LC-MS/MS proteomics, and AI-agent-assisted data analysis for
